@@ -56,6 +56,10 @@ export default function Modal06() {
               <li className="liModalCuidados">{card06.desc03}</li>
               
             </ul>
+
+            <div className="cardAlert">
+              {card06.h2Desc}
+            </div>
           </div>
         </div>
       )}

@@ -3,9 +3,9 @@ import { FaBars, FaTimes } from "react-icons/fa";
 import ModalHeader from "./ModalHeader";
 
 const logo = "/img/LOGO_TRANSPARENTE_1.png";
-const torso = "/img/imgHeaderMastopexiaComProtese.png";
+const torso = "/img/imgHeaderRitidoplastia.png";
 
-const tittleHeader = "Mastopexia com Prótese";
+const tittleHeader = "Ritidoplastia";
 const descHeader =
   "Procedimento cirúrgico avançado realizado por especialistas, proporcionando resultados seguros e naturais";
 

@@ -69,6 +69,7 @@ export default function Cuidados() {
                     <ul className="ulCardCuidados">
                         <li className="liCardCuidados">{card05.li01}</li>
                         <li className="liCardCuidados">{card05.li02}</li>
+                        <li className="liCardCuidados">{card05.li03}</li>
                         
                     </ul>
                     <Modal05 />
@@ -93,7 +94,7 @@ export default function Cuidados() {
                         <li className="liCardCuidados">{card07.li01}</li>
                         <li className="liCardCuidados">{card07.li02}</li>
                         <li className="liCardCuidados">{card07.li03}</li>
-                        <li className="liCardCuidados">{card07.li04}</li>
+                        
                     </ul>
                     <Modal07 />
                 </div>

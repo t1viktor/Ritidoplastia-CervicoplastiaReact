@@ -53,7 +53,7 @@ export default function ModalResultados() {
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 semanas</span>
-                  <span className="text-right">Redução do inchaço e desconforto, com melhora gradual do contorno das mamas</span>
+                  <span className="text-right">Redução do inchaço e desconforto, com melhora gradual do contorno facial e cervical</span>
                 </div>
                 <div className="flex justify-between border-b border-gray-700 py-2">
                   <span>1-2 meses</span>
@@ -61,7 +61,7 @@ export default function ModalResultados() {
                 </div>
                 <div className="flex justify-between py-2">
                   <span>3-6 meses</span>
-                  <span className="text-right">Resultados finais com mamas firmes, elevadas e cicatrizes mais suaves</span>
+                  <span className="text-right">Resultados finais com rosto e pescoço firmes, rejuvenescidos e cicatrizes mais suaves</span>
                 </div>
               </div>
             </div>

@@ -1,17 +1,17 @@
-const descProcedimento = "A mastopexia com prótese é um procedimento cirúrgico que combina o levantamento dos seios com a colocação de próteses de silicone, visando melhorar o volume, o contorno e a firmeza das mamas, proporcionando resultados estéticos harmoniosos e maior confiança.";
+const descProcedimento = "A ritidoplastia, ou lifting facial, é um procedimento cirúrgico que visa melhorar o contorno e o aspecto da face e pescoço, reduzindo a flacidez e os sinais de envelhecimento. A cervicoplastia, quando realizada isoladamente, foca no rejuvenescimento da região do pescoço. Ambos os procedimentos proporcionam resultados estéticos harmoniosos e uma aparência mais jovem e firme.";
 
 const tituloProcCard01 = "Avaliação Inicial";
 const tituloProcCard02 = "Preparação";
 const tituloProcCard03 = "Procedimento";
 const tituloProcCard04 = "Recuperação";
 
-const descProcCard01 = "Avaliação das mamas e definição do plano cirúrgico personalizado, considerando expectativas e saúde do paciente.";
+const descProcCard01 = "Avaliação da face e pescoço para definir o plano cirúrgico personalizado, considerando flacidez e expectativas do paciente.";
 
 const descProcCard02 = "Exames pré-operatórios e orientações sobre dieta, medicamentos e preparação física e emocional para a cirurgia.";
 
-const descProcCard03 = "Cirurgia para levantar as mamas e posicionar próteses de silicone, com técnicas personalizadas para resultados naturais.";
+const descProcCard03 = "Cirurgia para reposicionar tecidos faciais e/ou do pescoço, remover excesso de pele e ajustar a musculatura para um contorno mais jovem.";
 
-const descProcCard04 = "Cuidados pós-operatórios com cicatrizes, uso de sutiã especial, alimentação e atividades para recuperação segura.";
+const descProcCard04 = "Cuidados pós-operatórios com repouso, uso de malha de compressão, alimentação balanceada e proteção solar para recuperação segura.";
 
 export default function Procedimento() {
     return (

@@ -8,13 +8,13 @@ export default function Resultados() {
 
             <div className="grid grid-cols-2 max-lg:grid-cols-1 justify-items-center items-center gap-12">
                 <div className="space-y-12 justify-items-center items-center">
-                    <h2 className="text-blue-500 text-4xl">Transformação Completa</h2>
-                    <p className="text-gray-50 text-center">Os resultados da mastopexia com prótese são visíveis logo após a cirurgia, com a evolução completa ocorrendo em até 6 meses.</p>
+                    <h2 className="text-blue-500 text-4xl">Transformação Facial</h2>
+                    <p className="text-gray-50 text-center">Os resultados da ritidoplastia e cervicoplastia são visíveis logo após a cirurgia, com a evolução completa ocorrendo em até 6 meses.</p>
                     <ul className="text-gray-50 space-y-5">
-                        <li className="relative before:content-['✔']">Mamas mais firmes, elevadas e com volume harmonioso</li>
-                        <li className="relative before:content-['✔']">Contorno natural e proporcional ao corpo</li>
-                        <li className="relative before:content-['✔']">Melhora significativa na autoestima e confiança</li>
-                        <li className="relative before:content-['✔']">Resultados duradouros e satisfatórios</li>
+                        <li className="relative before:content-['✔']">Rosto e pescoço mais firmes e rejuvenescidos</li>
+                        <li className="relative before:content-['✔']">Redução significativa da flacidez e rugas</li>
+                        <li className="relative before:content-['✔']">Contorno facial mais definido e harmonioso</li>
+                        <li className="relative before:content-['✔']">Melhora na autoestima e confiança</li>
                     </ul>
                     <ModalResultados />
                 </div>
@@ -22,8 +22,8 @@ export default function Resultados() {
                 <div className="grid grid-cols-1 max-lg:grid-cols-2 gap-4 items-center justify-items-center">
 
                     <div className="cardResultados">
-                        <h2 className="cardNum text-gray-100 text-5xl font-semibold">7</h2>
-                        <p className="text-gray-400 text-xl">Dias de Recuperação Inicial</p>
+                        <h2 className="cardNum text-gray-100 text-5xl font-semibold">10</h2>
+                        <p className="text-gray-400 text-xl">Dias de Uso da Malha de Compressão</p>
                     </div>
 
                     <div className="cardResultados">
